@@ -180,8 +180,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="licenses.licx" />
     <Content Include="App.ico" />
-    <Content Include="ImagesToScan.tif" />
-    <Content Include="Readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
